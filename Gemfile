@@ -7,6 +7,8 @@ gem 'rails', '3.2.9'
 
 gem 'sqlite3'
 
+gem 'therubyracer'
+gem 'libv8', '~> 3.11.8'
 
 # Gems used only for assets and not required
 # in production environments by default.
